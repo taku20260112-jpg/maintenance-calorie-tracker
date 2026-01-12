@@ -1,0 +1,14 @@
+body{
+  margin:0;
+  font-family:system-ui,sans-serif;
+  background:#0b0f17;
+  color:#fff;
+}
+.app{max-width:900px;margin:20px auto;padding:10px}
+.card{background:#1a1f2e;padding:15px;border-radius:10px;margin-bottom:15px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.btn{padding:8px 12px;border-radius:8px;border:none;cursor:pointer}
+.primary{background:#6ea8ff}
+.table{width:100%;border-collapse:collapse}
+.table th,.table td{padding:8px;border-bottom:1px solid #333}
+.stats{margin-top:10px}
